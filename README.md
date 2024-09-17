@@ -1,2 +1,1 @@
-# Small-frontend-projects
- 
+# Some small react projects for my frontend practice.
